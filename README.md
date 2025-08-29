@@ -1,12 +1,34 @@
-# React + Vite
+# Fond Memory 🎞️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicação web feita com **React + Tailwind + Vite** para criar e guardar lembranças especiais em fotos, vídeos e áudios.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias
+- React
+- TailwindCSS
+- Vite
+- Framer Motion
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Funcionalidades
+- Upload de fotos, vídeos e áudios
+- Organização por categorias (família, casal, pets, entes queridos)
+- Reprodução em forma de história
+- Armazenamento local (localStorage)
+- Exportação e importação de memórias
 
-## Expanding the ESLint configuration
+## 📦 Como rodar
+```bash
+npm install
+npm run dev
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Abra em: http://localhost:5173
+
+💡 Próximos passos
+
+Autenticação de usuários
+
+Backend para armazenamento seguro
+
+Compartilhamento de memórias
+
+
+Criado por PATRICIA ARAUJO 
